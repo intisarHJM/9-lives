@@ -1,0 +1,34 @@
+{
+  "name": "9-lives",
+  "version": "1.0.0",
+  "description": "9-Lives is a fun, pixel-perfect platformer where you play as a brave cat exploring dangerous kingdoms, jumping over traps, collecting treats, and proving that cats really do have nine lives. Instead of a plumper in red hats, you’re a determined kitty with nine chances to fail, learn, and come back stronger.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intisarHJM/9-lives.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/intisarHJM/9-lives/issues"
+  },
+  "homepage": "https://github.com/intisarHJM/9-lives#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "connect-mongo": "^6.0.0",
+    "dotenv": "^17.4.2",
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "method-override": "^3.0.0",
+    "mongodb": "^7.4.0",
+    "mongoose": "^9.7.3",
+    "morgan": "^1.11.0"
+  }
+}
