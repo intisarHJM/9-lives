@@ -2,10 +2,10 @@
   "name": "9-lives",
   "version": "1.0.0",
   "description": "9-Lives is a fun, pixel-perfect platformer where you play as a brave cat exploring dangerous kingdoms, jumping over traps, collecting treats, and proving that cats really do have nine lives. Instead of a plumper in red hats, you’re a determined kitty with nine chances to fail, learn, and come back stronger.",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node --watch server.js"
+    "start": "parcel ./ninelives-app/src/index.html",
+    "build": "parcel build ./ninelives-app/src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
