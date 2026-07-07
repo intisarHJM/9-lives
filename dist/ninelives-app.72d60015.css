@@ -1,0 +1,13 @@
+html {
+  color-scheme: light dark;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-family: system-ui;
+  display: flex;
+}
+
+canvas {
+  background-color: #fdd4ff;
+}
+/*# sourceMappingURL=ninelives-app.72d60015.css.map */
