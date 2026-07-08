@@ -1,8 +1,8 @@
 # 9-Lives
 A 2D side-scrolling runner game where a black cat must dodge falling obstacles — sandals and trash bags — raining from the sky, testing how many lives it can keep out of nine.
 
-## Starting Date: 5/8/2026
-## Completion Date: 7/8/2026
+### Starting Date: 5/8/2026
+### Completion Date: 7/8/2026
 ### By: Intisar Abdulla
 
 ### ***Description***
