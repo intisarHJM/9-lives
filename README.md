@@ -34,10 +34,10 @@ A 2D side-scrolling runner game where a black cat must dodge falling obstacles â
 ***
 ### ***Screenshots***
 **Final Project Design**
-![Title Screen](../9-lives/ninelives-app/assets/actualGame-screensots/title.png)
-![Gameplay - dodging sandals](../9-lives/ninelives-app/assets/actualGame-screensots/sandal.png)
-![Gameplay - dodging Trash](../9-lives/ninelives-app/assets/actualGame-screensots/trash.png)
-![Game Over screen](../9-lives/ninelives-app/assets/actualGame-screensots/over.png)
+![Title Screen](./public/actualGame-screensots/Screenshot%202026-07-08%20024303.png)
+![Gameplay - dodging sandals](./public/actualGame-screensots/sandal.png)
+![Gameplay - dodging Trash Bags](./public/actualGame-screensots/trash.png)
+![Game Over screen](./public/actualGame-screensots/over.png)
 *These screenshots show the final result of the game design.*
 ***
 ### ***Future Updates***
