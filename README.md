@@ -3,8 +3,7 @@ A 2D side-scrolling runner game where a black cat must dodge falling obstacles â
 
 ## Starting Date: 5/8/2026
 ## Completion Date: 7/8/2026
-### By:
-* Intisar Abdulla
+### By: Intisar Abdulla
 
 ### ***Description***
 #### 9-Lives is a browser-based endless runner built with Phaser 4. The player controls a black cat sprinting through a city street while dodging obstacles falling from above. Every hit costs one of the cat's nine lives, and the score climbs the longer the cat survives.
